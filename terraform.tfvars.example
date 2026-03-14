@@ -1,0 +1,8 @@
+aws_region  = "eu-west-1"
+aws_profile = "iamadmin"
+
+github_owner  = "Raffasolaries"
+iam_role_name = "github-actions-oidc"
+
+# Narrow down permissions as needed:
+# iam_policy_arns = ["arn:aws:iam::aws:policy/PowerUserAccess"]
